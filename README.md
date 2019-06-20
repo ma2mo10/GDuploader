@@ -3,7 +3,7 @@ GDuploader
 
 slackにアップロードされたファイルをGoogle Driveにuploadするアプリケーション
 
-##link
+## link
 
 [slack api](https://www.google.co.jp/)
 
