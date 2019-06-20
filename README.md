@@ -5,6 +5,6 @@ slackにアップロードされたファイルをGoogle Driveにuploadするア
 
 ## link
 
-[slack api](https://www.google.co.jp/)
+[slack api](https://api.slack.com/)
 
 [Google Drive APIs](https://developers.google.com/drive/?hl=ja)
