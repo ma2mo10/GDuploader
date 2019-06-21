@@ -6,3 +6,10 @@ function doPost(e) {
     }
     return ContentService.createTextOutput('ok');
 }
+
+//fileをドライブに送る
+function transferFiles{
+    
+
+}
+
