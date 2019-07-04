@@ -14,7 +14,7 @@ function doPost(e) {
 }
 
 //fileをドライブに移す処理
-function transferFiles
+function transferFiles(params){
     //送りたくないファイル形式を指定する
     //var notCopyType = [""];
 
