@@ -9,6 +9,6 @@ slackにアップロードされたファイルをGoogle Driveにuploadするア
 
 [Google Drive APIs](https://developers.google.com/drive/?hl=ja)
 
-###fileobject information
+### fileobject information
 
 [file type](https://api.slack.com/types/file)
